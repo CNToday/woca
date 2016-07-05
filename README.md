@@ -20,8 +20,27 @@ add
 
 ![截图3][11]
 
+#guitar3.0
+目录
+
+
+![截图3][9]
+
+IFactory
+
+
+![截图3][10]
+
+add
+
+
+![截图3][11]
+
+
+
 #guitar2.0
 代码截图
+
 
 servlet
 
@@ -68,3 +87,7 @@ match方法
 [9]: img/guitar3.0/目录.png "截图3"
 [10]: img/guitar3.0/IFactory.png "截图3"
 [11]: img/guitar3.0/add.png "截图3"
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
