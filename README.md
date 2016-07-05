@@ -1,4 +1,24 @@
-# 系统分析与设计作业
+﻿# 系统分析与设计作业
+#guitar3.0
+目录
+
+
+
+![截图3][9]
+
+ 
+IFactory
+
+
+
+![截图3][10]
+
+
+add
+
+
+
+![截图3][11]
 
 #guitar2.0
 代码截图
@@ -45,3 +65,6 @@ match方法
 [6]: img/guitar2.0/5.png "截图3"
 [7]: img/guitar2.0/6.png "截图3"
 [8]: img/guitar2.0/7.png "截图3"
+[9]: img/guitar3.0/目录.png "截图3"
+[10]: img/guitar3.0/IFactory.png "截图3"
+[11]: img/guitar3.0/add.png "截图3"
